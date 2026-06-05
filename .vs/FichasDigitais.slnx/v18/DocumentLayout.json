@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Interfaces\\IFichaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IFichaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Models\\Pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Models\\TipoProcedimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\TipoProcedimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Services\\FichaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\FichaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Interfaces\\IFichaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IFichaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Models\\Ficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Ficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Models\\Pessoa.cs",
+              "RelativeToolTip": "Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T17:29:11.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoProcedimento.cs",
+              "DocumentMoniker": "C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Models\\TipoProcedimento.cs",
+              "RelativeDocumentMoniker": "Models\\TipoProcedimento.cs",
+              "ToolTip": "C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Models\\TipoProcedimento.cs",
+              "RelativeToolTip": "Models\\TipoProcedimento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T17:29:10.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FichaService.cs",
+              "DocumentMoniker": "C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Services\\FichaService.cs",
+              "RelativeDocumentMoniker": "Services\\FichaService.cs",
+              "ToolTip": "C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Services\\FichaService.cs",
+              "RelativeToolTip": "Services\\FichaService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T22:18:57.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ficha.cs",
+              "DocumentMoniker": "C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Models\\Ficha.cs",
+              "RelativeDocumentMoniker": "Models\\Ficha.cs",
+              "ToolTip": "C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Models\\Ficha.cs",
+              "RelativeToolTip": "Models\\Ficha.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T20:50:52.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IFichaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Interfaces\\IFichaRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFichaRepository.cs",
+              "ToolTip": "C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Interfaces\\IFichaRepository.cs",
+              "RelativeToolTip": "Interfaces\\IFichaRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T20:50:15.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFichaService.cs",
+              "DocumentMoniker": "C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Interfaces\\IFichaService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFichaService.cs",
+              "ToolTip": "C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Interfaces\\IFichaService.cs",
+              "RelativeToolTip": "Interfaces\\IFichaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T20:50:12.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\feeve\\OneDrive\\\u00C1rea de Trabalho\\dev\\Projetos\\FichasDigitaisExemplos\\Exemplo1\\FichasDigitais\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T02:21:53.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

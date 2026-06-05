@@ -1,0 +1,14 @@
+C:\Users\feeve\OneDrive\Área de Trabalho\dev\Projetos\FichasDigitaisExemplos\Exemplo1\FichasDigitais\obj\Debug\net10.0\FichasDigitais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feeve\OneDrive\Área de Trabalho\dev\Projetos\FichasDigitaisExemplos\Exemplo1\FichasDigitais\obj\Debug\net10.0\FichasDigitais.AssemblyInfoInputs.cache
+C:\Users\feeve\OneDrive\Área de Trabalho\dev\Projetos\FichasDigitaisExemplos\Exemplo1\FichasDigitais\obj\Debug\net10.0\FichasDigitais.AssemblyInfo.cs
+C:\Users\feeve\OneDrive\Área de Trabalho\dev\Projetos\FichasDigitaisExemplos\Exemplo1\FichasDigitais\obj\Debug\net10.0\FichasDigitais.csproj.CoreCompileInputs.cache
+C:\Users\feeve\OneDrive\Área de Trabalho\dev\Projetos\FichasDigitaisExemplos\Exemplo1\FichasDigitais\bin\Debug\net10.0\FichasDigitais.exe
+C:\Users\feeve\OneDrive\Área de Trabalho\dev\Projetos\FichasDigitaisExemplos\Exemplo1\FichasDigitais\bin\Debug\net10.0\FichasDigitais.deps.json
+C:\Users\feeve\OneDrive\Área de Trabalho\dev\Projetos\FichasDigitaisExemplos\Exemplo1\FichasDigitais\bin\Debug\net10.0\FichasDigitais.runtimeconfig.json
+C:\Users\feeve\OneDrive\Área de Trabalho\dev\Projetos\FichasDigitaisExemplos\Exemplo1\FichasDigitais\bin\Debug\net10.0\FichasDigitais.dll
+C:\Users\feeve\OneDrive\Área de Trabalho\dev\Projetos\FichasDigitaisExemplos\Exemplo1\FichasDigitais\bin\Debug\net10.0\FichasDigitais.pdb
+C:\Users\feeve\OneDrive\Área de Trabalho\dev\Projetos\FichasDigitaisExemplos\Exemplo1\FichasDigitais\obj\Debug\net10.0\FichasDigitais.dll
+C:\Users\feeve\OneDrive\Área de Trabalho\dev\Projetos\FichasDigitaisExemplos\Exemplo1\FichasDigitais\obj\Debug\net10.0\refint\FichasDigitais.dll
+C:\Users\feeve\OneDrive\Área de Trabalho\dev\Projetos\FichasDigitaisExemplos\Exemplo1\FichasDigitais\obj\Debug\net10.0\FichasDigitais.pdb
+C:\Users\feeve\OneDrive\Área de Trabalho\dev\Projetos\FichasDigitaisExemplos\Exemplo1\FichasDigitais\obj\Debug\net10.0\FichasDigitais.genruntimeconfig.cache
+C:\Users\feeve\OneDrive\Área de Trabalho\dev\Projetos\FichasDigitaisExemplos\Exemplo1\FichasDigitais\obj\Debug\net10.0\ref\FichasDigitais.dll
